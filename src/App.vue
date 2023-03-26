@@ -30,7 +30,7 @@ export default {
   components: { Modal },
   data () {
     return {
-      title: 'My First Vue App',
+      title: 'My Modal App',
       showModal: false,
       showModalTwo: false
     }
